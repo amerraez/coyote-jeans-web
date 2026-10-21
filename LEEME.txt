@@ -1,0 +1,6 @@
+COYOTE JEANS — PROTOTIPO V2
+
+Archivos: index.html, styles.css, script.js y assets/ con las fotos suministradas.
+Sube todos estos archivos y la carpeta assets a la raíz de tu repositorio.
+
+ANTES DE PUBLICAR: confirmar WhatsApp 0995 328 538, revisar fotos y catálogo, añadir precios y políticas aprobadas. Este prototipo no tiene pagos en línea ni inventario conectado. Las fotos son las referencias proporcionadas por la marca. El logo se usa provisionalmente y puede necesitar la variante con fondo claro para combinar mejor con el diseño.
